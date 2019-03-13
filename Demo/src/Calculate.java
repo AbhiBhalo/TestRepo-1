@@ -16,6 +16,7 @@ public class Calculate {
 		int b=20;
 		System.out.println("addition");
 		System.out.println(a+b);
+		System.out.println(a-b);
 		// TODO Auto-generated method stub
 
 	}
